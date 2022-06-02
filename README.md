@@ -1,3 +1,6 @@
+I am moving my projects from github to [sr.ht](https://sr.ht/~mustachedsquid/)
+I will probably stop updating my github repositories.
+
 ### Hello there 👋
 #### I am Tomás, I am a 19 year old programmer.
 
